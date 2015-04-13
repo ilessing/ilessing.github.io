@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Leveraging the Aleph API for improvements to the Web OPAC
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+We've been making use of some of the Aleph Restful API's for Aleph which is our Integrated Library System (ILS) from Exlibris Software.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+H2 Projects:
+# Integrate with Aeon the Special Collections curculation and tracking system.
+# Add a Faculty Driven Acquisitions feature which provides faculty to recommend a purchase when a title they search for is not in already in our collection.
+
