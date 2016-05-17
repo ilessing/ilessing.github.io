@@ -51,3 +51,27 @@ Discussion of hosting and aging infrastructure of site: <http://it.ucsb.edu/>
 	http://patternlab.io
 
 
+----
+Kevin Wu wrote: 
+    Here are some links from my react + redux talk today:
+
+Preamble Slidedeck
+http://slides.com/kevinwu-ucsb/webserver-browser-relationship#/
+
+Greetings Source
+https://github.com/ginxwar/greetings-react-redux
+
+Greetings Live App
+http://ginxwar.github.io/greetings-react-redux/
+
+We also talked about how bootstrap works with react.  It so happens that folks are working on this problem right now:  
+https://react-bootstrap.github.io/
+
+Sources
+https://facebook.github.io/react/
+https://facebook.github.io/flux/docs/overview.html (precursor to redux)
+http://redux.js.org (redux)
+
+Redux is a portmanteau combining "reducer" + "flux" architecture pattern.  At its core redux is billed as a state container for your JavaScript application.  How it does this is through the "reducer composition pattern" described here http://redux.js.org/docs/basics/Reducers.html
+
+Tons of example of shared on the Redux site, with a real world application showing how asynchronous calls are defined in your redux architecture.  Redux is a super small library that one could argue that it's more of a design pattern than a library or framework.
